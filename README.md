@@ -7,7 +7,7 @@ The code was written with MATLAB R2022b and to be used with Gurobi 11.0.1.
 
 # Code
 ## Main functions:
-runall.m: run all codes
+runall.m: Running all codes
 
 TwoSubsys_NLP_Sec5.m: Used in the Paper Sec. 5.1; Two Subsystem NLP case
 
