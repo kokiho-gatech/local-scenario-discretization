@@ -23,7 +23,7 @@ solve.m: Main solve function
 
 ThreeSubsystemSub.m: Subfunction solving the three-subsystem case
 
-gurobi_linprog.m: solve LP using Gurobi (This subfunction was developed with the assistance of AI tools, but all of the code has been reviewed and adapted.)
+gurobi_linprog.m: Solving LP using Gurobi (This subfunction was developed with the assistance of AI tools, but all of the code has been reviewed and adapted.)
 
 ## Data:
 
